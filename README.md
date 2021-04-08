@@ -51,7 +51,7 @@ However, each unit has a growth rate which affects the chances of increasing a s
 
 **Units and Growth Rates:**
 
-Included are three (3) basic RPG units described in this program, a neutral unit, a figther unit, and a mage unit.
+Included ins this program are three (3) basic RPG units, a neutral unit, a figther unit, and a mage unit.
 
 The neutral unit gains all stat points at random and does not experience any special growth rates.
 
