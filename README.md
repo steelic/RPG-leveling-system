@@ -41,8 +41,10 @@ Three stats can increase by one (1) point each.
 
 **Stat Point Probability:**
 
-There is a 1/15 (0.66%) chance of any stat increasing by three (3) points. 
+There is a 1/15 (0.66%) chance of any stat increasing by three (3) points.
+
 There is a 3/15 (20%) chance of any stat increasing by two (2) points and another stat increasing by one (1) point.
+
 There is a 10/15 (66%) of three different stats increasing by one (1) point.
 
 However, each unit has a growth rate which affects the chances of increasing a specfic stat by three (3) points.
