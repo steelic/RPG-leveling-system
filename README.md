@@ -11,11 +11,17 @@ Additonally, this program does not have to be used as an RPG leveling system exc
 This leveling system works with respect to seven (7) stats:
 
 Health: x
+
 Strength: x
+
 Magic: x
+
 Defense: x
+
 Resistance: x
+
 Agility: x
+
 Luck: x
 
 'x' is variable representing a numeric value from one (1) to one hundred (100), however, the base stats and stat cap of a unit can be changed to any value(s).
